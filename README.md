@@ -7,9 +7,9 @@ It prioritizes top row and home row usage while discouraging usage of the bottom
 row as it's less ergonomic due to the nature of a semi-ortho keyboard.
 
 ```
-f c d m j k l u o y
-r s h t g w n e a i
-  b p v      x . ,
+m  c  d  f  j  k  l  u  o  y
+r  s  h  t  g  w  n  e  a  i
+   b  p  v        x  .  ,
 ```
 
 You may note that `Z` and `Q` are missing, these can be swapped `.` and `,`
